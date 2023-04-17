@@ -8,6 +8,8 @@ The following steps are followed for the same:
 
 1 Importing Necessary Modules and dataset   
 2 Data Preprocessing and Visualisation
+
 3 Model Building and Training 
+
 4 Obtaining the classification report and displaying the confusion matrix.
 
